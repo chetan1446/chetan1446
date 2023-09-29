@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Chetan Ranjan Mohanta
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reach me chetanranjan007@gmail.com
 
