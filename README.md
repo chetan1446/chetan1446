@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Chetan Ranjan Mohanta
 
-### 🚀 Full Stack Developer | Bhubaneswar, India
+## 🚀 Full Stack Developer | Bhubaneswar, India
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=chetan1446&color=brightgreen)
 
 ### 🌟 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,6 +45,12 @@
 
 ### 🎓 Education
 - **BE, Gandhi Institute for Education and Technology**, Bhubaneswar (2021), 7.5 CGPA
+
+---
+
+### 📊 GitHub Stats
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan1446&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan1446&layout=compact&theme=radical)
 
 ---
 
