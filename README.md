@@ -5,6 +5,10 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chetan1446&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/chetan1446?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/chetan1446?label=Stars&style=social)
+
+---
 
 ### 🌟 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,9 +53,27 @@
 ---
 
 ### 📊 GitHub Stats
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan1446&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan1446&layout=compact&theme=radical)
+<div align="center">
+  <a href="https://github.com/chetan1446">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan1446&show_icons=true&theme=radical" alt="Chetan's GitHub stats" />
+  </a>
+  <a href="https://github.com/chetan1446">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan1446&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
-Thank you for visiting my profile!
+### 🚀 Featured Repositories
+<div align="center">
+  <a href="https://github.com/chetan1446/Offer-Rollout">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetan1446&repo=Offer-Rollout&theme=radical" />
+  </a>
+  <a href="https://github.com/chetan1446/Dockegrity">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetan1446&repo=Dockegrity&theme=radical" />
+  </a>
+</div>
+
+---
+
+Thank you for visiting my profile! If you like my work, consider giving a ⭐ on [GitHub](https://github.com/chetan1446)!
